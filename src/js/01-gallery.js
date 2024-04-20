@@ -30,6 +30,6 @@ function createGalleryItem(array) {
   });
 
   galleryHandler.on("show.simplelightbox");
-
+///hgh/
 
 console.log(galleryItems);
